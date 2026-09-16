@@ -2,7 +2,13 @@
 
 A hands-on AI learning lab focused on understanding concepts through implementation and experimentation.
 
-This repository contains my notes, implementations, and experiments while learning AI through:
+## Learning Note
+
+I'm following CS50's Introduction to Artificial Intelligence with Python through the publicly available lectures and materials on YouTube and the CS50 website.
+
+This repository documents my independent learning process through implementations, experiments, and notes. I aim to understand the concepts deeply and implement them myself rather than simply following existing solutions.
+
+## Topics
 
 * Algorithms and Search
 * Knowledge and Reasoning
