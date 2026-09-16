@@ -1,0 +1,15 @@
+C:\Users\alipour\Documents\Cources\cs50-ai-lab\01-search\csharp\BFS\bin\Debug\net9.0\BFS.exe
+C:\Users\alipour\Documents\Cources\cs50-ai-lab\01-search\csharp\BFS\bin\Debug\net9.0\BFS.deps.json
+C:\Users\alipour\Documents\Cources\cs50-ai-lab\01-search\csharp\BFS\bin\Debug\net9.0\BFS.runtimeconfig.json
+C:\Users\alipour\Documents\Cources\cs50-ai-lab\01-search\csharp\BFS\bin\Debug\net9.0\BFS.dll
+C:\Users\alipour\Documents\Cources\cs50-ai-lab\01-search\csharp\BFS\bin\Debug\net9.0\BFS.pdb
+C:\Users\alipour\Documents\Cources\cs50-ai-lab\01-search\csharp\BFS\obj\Debug\net9.0\BFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alipour\Documents\Cources\cs50-ai-lab\01-search\csharp\BFS\obj\Debug\net9.0\BFS.AssemblyInfoInputs.cache
+C:\Users\alipour\Documents\Cources\cs50-ai-lab\01-search\csharp\BFS\obj\Debug\net9.0\BFS.AssemblyInfo.cs
+C:\Users\alipour\Documents\Cources\cs50-ai-lab\01-search\csharp\BFS\obj\Debug\net9.0\BFS.csproj.CoreCompileInputs.cache
+C:\Users\alipour\Documents\Cources\cs50-ai-lab\01-search\csharp\BFS\obj\Debug\net9.0\BFS.sourcelink.json
+C:\Users\alipour\Documents\Cources\cs50-ai-lab\01-search\csharp\BFS\obj\Debug\net9.0\BFS.dll
+C:\Users\alipour\Documents\Cources\cs50-ai-lab\01-search\csharp\BFS\obj\Debug\net9.0\refint\BFS.dll
+C:\Users\alipour\Documents\Cources\cs50-ai-lab\01-search\csharp\BFS\obj\Debug\net9.0\BFS.pdb
+C:\Users\alipour\Documents\Cources\cs50-ai-lab\01-search\csharp\BFS\obj\Debug\net9.0\BFS.genruntimeconfig.cache
+C:\Users\alipour\Documents\Cources\cs50-ai-lab\01-search\csharp\BFS\obj\Debug\net9.0\ref\BFS.dll
