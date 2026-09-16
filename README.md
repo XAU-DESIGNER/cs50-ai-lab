@@ -16,6 +16,14 @@ Implementations are written in **Python** and **C#**.
 
 The goal is simple: learn the concepts, understand how they work, and build them from the ground up.
 
+## Questions & Discussions
+
+If you're stuck or have a question about something in this repository, feel free to open a discussion.
+
+Share the problem, what you've tried, and any relevant code or error messages. Hopefully, we can help each other learn.
+
+### LAST WORDS :)
+
 Thanks for visiting this repository.
 
 I hope you found something useful here.
