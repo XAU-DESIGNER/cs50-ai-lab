@@ -1,0 +1,1 @@
+ok, as you can see this is simplest way to show how it works!
