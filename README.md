@@ -1,4 +1,10 @@
 # CS50 AI Lab
+<div align=center>
+
+![GitHub last commit](https://img.shields.io/github/last-commit/XAU-DESIGNER/cs50-ai-lab?style=for-the-badge&labelColor=101418&color=9ccbfb)
+![GitHub Repo stars](https://img.shields.io/github/stars/XAU-DESIGNER/cs50-ai-lab?style=for-the-badge&labelColor=101418&color=b9c8da)
+![GitHub repo size](https://img.shields.io/github/repo-size/XAU-DESIGNER/cs50-ai-lab?style=for-the-badge&labelColor=101418&color=d3bfe6)
+</div>
 
 A hands-on AI learning lab focused on understanding concepts through implementation and experimentation.
 
