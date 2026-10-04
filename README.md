@@ -41,3 +41,5 @@ Thanks for visiting this repository.
 I hope you found something useful here.
 
 @XAU-DESIGNER
+
+<img width="2112" height="1632" alt="CS50AI" src="https://github.com/user-attachments/assets/8a900344-2885-4998-9035-f544f99e2c6e" />
